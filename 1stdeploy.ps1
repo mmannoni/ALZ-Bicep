@@ -7,3 +7,5 @@ $inputObject = @{
   TemplateParameterFile = './infra-as-code/bicep/modules/managementGroups/parameters/managementGroups.parameters.all.json'
 }
 New-AzTenantDeployment @inputObject
+
+#tets
